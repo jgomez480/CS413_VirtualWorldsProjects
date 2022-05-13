@@ -10,7 +10,7 @@ These projects were created using GameMaker.
 
 \
 \
-\
+
 
 ### Authors
 
