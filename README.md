@@ -7,9 +7,8 @@ These projects were created using GameMaker.
 
 **Refer the README file in each project for details of distribution of work and what each game is about**
 
-
-\
-\
+<br />
+<br />
 
 
 ### Authors
